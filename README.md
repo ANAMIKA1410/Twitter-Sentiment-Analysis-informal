@@ -23,19 +23,7 @@ Textual Information retrieval techniques mainly focus on processing, searching o
 
 ### Problem Statement: 
 Despite the availability of software to extract data regarding a person’s sentiment on a specific product or service,organizations and other data workers still face issues regarding the data extraction
-
-
-
-
-
-
 Sentiment Analysis of Web Based Applications Focus on Single Tweet Only
-
-
-
-
-
-
 Difficulty of Sentiment Analysis with inappropriate english
 
 
