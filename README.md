@@ -4,4 +4,4 @@ This is a repository containing all the resources i.e data, notebooks etc., of o
 1. [Vansh](https://github.com/vansh45)
 2. [Anamika](https://github.com/ANAMIKA1410)
 3. [Utkarsh](https://github.com/utquarsh027)
-4. [Gargi](https://github.com/gargi_09)
+4. [Gargi](https://github.com/gargi-09)
