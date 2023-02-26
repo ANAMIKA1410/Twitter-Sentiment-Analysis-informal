@@ -9,7 +9,7 @@ This is a repository containing all the resources i.e data, notebooks etc., of o
 
 
 
-		Twitter Sentiment Analysis
+		# Twitter Sentiment Analysis
 
 
 Abstract:- With the evolving behavior of different types of social networking sites like Instagram, twitter, snapchat etc , the data posted by people i.e the users of a particular social site is increasing drastically . So much so that almost millions and billions of data may be textual, video or audio is posted per day. This is because there are millions of users of a particular site. These users intend to share their thoughts, views related to any topic of their choosing. Some of these users even post in vain. These posts are short hence only meant to express a particular view of a particular user regarding a particular thing. In this paper we aim to derive the feelings behind these posts. For this we have chosen twitter as a social networking site. The posts in this social networking site are known as tweets. In this paper we scrutinize methods of preprocessing and extraction of twitter data using python and then train as well as test this data against a classifier in order to derive the sentiments behind tweets. 
@@ -82,28 +82,9 @@ Precision
 Recall
 
 
-
-
-
-
 RESULTS AND DISCUSSION 
 We used the twitter dataset publicly  labeled datasets using various feature extraction techniques. We used the framework where the preprocessor is applied to the raw sentences which make it more appropriate to understand. Further, the different machine learning techniques train the dataset with feature vectors and then the semantic analysis offers a large set of synonyms and similarity which provides the polarity of the content.As a result, program will be categorized sentiment into positive and negative, which is represented in a pie chart and
 html page Although, the program has been planned to be developed as a web application.. Therefore, further enhancement of this element is recommended in future study.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
