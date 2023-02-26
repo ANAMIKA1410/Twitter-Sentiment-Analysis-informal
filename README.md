@@ -12,7 +12,7 @@ This is a repository containing all the resources i.e data, notebooks etc., of o
 # Twitter Sentiment Analysis
 
 
-### Abstract:- 
+### ABSTRACT:- 
 With the evolving behavior of different types of social networking sites like Instagram, twitter, snapchat etc , the data posted by people i.e the users of a particular social site is increasing drastically . So much so that almost millions and billions of data may be textual, video or audio is posted per day. This is because there are millions of users of a particular site. These users intend to share their thoughts, views related to any topic of their choosing. Some of these users even post in vain. These posts are short hence only meant to express a particular view of a particular user regarding a particular thing. In this paper we aim to derive the feelings behind these posts. For this we have chosen twitter as a social networking site. The posts in this social networking site are known as tweets. In this paper we scrutinize methods of preprocessing and extraction of twitter data using python and then train as well as test this data against a classifier in order to derive the sentiments behind tweets. 
 
 
@@ -21,7 +21,7 @@ According to millions of people are using social network sites to express their 
 Sentiment analysis (SA)tells users whether the information about the product is satisfactory or not before they buy it. Marketers and firms use this analysis data to understand about their products or services in such a way that it can be offered as per the user‟s requirements.
 Textual Information retrieval techniques mainly focus on processing, searching or analyzing the factual data present. Facts have an objective component but there are some other textual contents which express subjective characteristics. These contents are mainly opinions, sentiments, appraisals, attitudes, and emotions, which form the core of Sentiment Analysis (SA). It offers many challenging opportunities to develop new applications, mainly due to the huge growth of available information on online sources like blogs and social networks. For example, recommendations of items proposed by a recommendation system can be predicted by taking into account considerations such as positive or negative opinions about those items by making use of SA.
 
-### Problem Statement: 
+### PROBLEM STATEMENT: 
 Despite the availability of software to extract data regarding a person’s sentiment on a specific product or service,organizations and other data workers still face issues regarding the data extraction
 Sentiment Analysis of Web Based Applications Focus on Single Tweet Only
 Difficulty of Sentiment Analysis with inappropriate english
