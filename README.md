@@ -12,7 +12,8 @@ This is a repository containing all the resources i.e data, notebooks etc., of o
 # Twitter Sentiment Analysis
 
 
-Abstract:- With the evolving behavior of different types of social networking sites like Instagram, twitter, snapchat etc , the data posted by people i.e the users of a particular social site is increasing drastically . So much so that almost millions and billions of data may be textual, video or audio is posted per day. This is because there are millions of users of a particular site. These users intend to share their thoughts, views related to any topic of their choosing. Some of these users even post in vain. These posts are short hence only meant to express a particular view of a particular user regarding a particular thing. In this paper we aim to derive the feelings behind these posts. For this we have chosen twitter as a social networking site. The posts in this social networking site are known as tweets. In this paper we scrutinize methods of preprocessing and extraction of twitter data using python and then train as well as test this data against a classifier in order to derive the sentiments behind tweets. 
+##### Abstract:- 
+With the evolving behavior of different types of social networking sites like Instagram, twitter, snapchat etc , the data posted by people i.e the users of a particular social site is increasing drastically . So much so that almost millions and billions of data may be textual, video or audio is posted per day. This is because there are millions of users of a particular site. These users intend to share their thoughts, views related to any topic of their choosing. Some of these users even post in vain. These posts are short hence only meant to express a particular view of a particular user regarding a particular thing. In this paper we aim to derive the feelings behind these posts. For this we have chosen twitter as a social networking site. The posts in this social networking site are known as tweets. In this paper we scrutinize methods of preprocessing and extraction of twitter data using python and then train as well as test this data against a classifier in order to derive the sentiments behind tweets. 
 
 
 ### INTRODUCTION 
@@ -52,14 +53,16 @@ D. Model Selection E. Model Evaluation
 
 
 
-
+##### Data collection 
 Data collection is the first phase for analysis as there needs to be data for us to do analysis on. In our experimentations we have used the python programming language as a tool. Being that said, data collection in this particular analysis could be carried out in two ways. First way is to collect preorganized data from different sites such as kaggle and from github from dataset of other projects.
 
 
-Data Preprocessing The pre-processing of data implies the processing of raw data into a more convenient format which could be fed to a classifier in order to better the accuracy of the classifier. Here, in our case the raw data which is being extracted from twitter using csv files from github is initially totally unstructured and bogus as the availability of various useless characters seems very common in it. 
+##### Data Preprocessing 
+The pre-processing of data implies the processing of raw data into a more convenient format which could be fed to a classifier in order to better the accuracy of the classifier. Here, in our case the raw data which is being extracted from twitter using csv files from github is initially totally unstructured and bogus as the availability of various useless characters seems very common in it. 
 
 
-Feature Selection The preprocessed dataset has many distinctive properties. In the feature extraction method, we extract the aspects from the processed dataset. Later this aspect are used to compute the positive and negative polarity in a sentence which is useful for determining the opinion of the individuals .
+##### Feature Selection
+The preprocessed dataset has many distinctive properties. In the feature extraction method, we extract the aspects from the processed dataset. Later this aspect are used to compute the positive and negative polarity in a sentence which is useful for determining the opinion of the individuals .
 Some examples features that have been reported in literature are:
 Opinion Words And Phrases
 Position Of Terms
@@ -67,7 +70,8 @@ Words And Their Frequencies:
 Syntax
 
 
-Model Selection Once the data is being pre-processed, this data is to be fed to a classification model for further processing. There are different classification algorithms on which these models are built on. 
+##### Model Selection 
+Once the data is being pre-processed, this data is to be fed to a classification model for further processing. There are different classification algorithms on which these models are built on. 
 KNN or k-Nearest Neighbour algorithm represents a machine learning technique used for classifying a set of data into its given target values (in our case positive , neutral or negative).KNN could also be used for regression problems but is widely used for classification problems.
 
 
@@ -83,8 +87,7 @@ We used the twitter dataset publicly  labeled datasets using various feature ext
 html page Although, the program has been planned to be developed as a web application.. Therefore, further enhancement of this element is recommended in future study.
 
 
-
-REFERENCES:
+### REFERENCES:
 https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19FB242.pdf
 https://arxiv.org/ftp/arxiv/papers/1601/1601.06971.pdf
 https://www.researchgate.net/publication/301408174_Twitter_sentiment_analysis
