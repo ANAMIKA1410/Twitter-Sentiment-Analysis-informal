@@ -2,6 +2,6 @@
 
 This is a repository containing all the resources i.e data, notebooks etc., of our minor project. List of team members include:
 1. @Vansh Samaiya
-2. @Anamika Jain
+2. @Anamika Jain @ANAMIKA1410
 3. @Utkarsh Jhariya
 4. @gargi-09
