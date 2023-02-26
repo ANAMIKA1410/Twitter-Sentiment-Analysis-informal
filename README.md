@@ -12,7 +12,7 @@ This is a repository containing all the resources i.e data, notebooks etc., of o
 # Twitter Sentiment Analysis
 
 
-##### Abstract:- 
+### Abstract:- 
 With the evolving behavior of different types of social networking sites like Instagram, twitter, snapchat etc , the data posted by people i.e the users of a particular social site is increasing drastically . So much so that almost millions and billions of data may be textual, video or audio is posted per day. This is because there are millions of users of a particular site. These users intend to share their thoughts, views related to any topic of their choosing. Some of these users even post in vain. These posts are short hence only meant to express a particular view of a particular user regarding a particular thing. In this paper we aim to derive the feelings behind these posts. For this we have chosen twitter as a social networking site. The posts in this social networking site are known as tweets. In this paper we scrutinize methods of preprocessing and extraction of twitter data using python and then train as well as test this data against a classifier in order to derive the sentiments behind tweets. 
 
 
@@ -75,7 +75,7 @@ Once the data is being pre-processed, this data is to be fed to a classification
 KNN or k-Nearest Neighbour algorithm represents a machine learning technique used for classifying a set of data into its given target values (in our case positive , neutral or negative).KNN could also be used for regression problems but is widely used for classification problems.
 
 
-### Model Evaluation
+##### Model Evaluation
 By applying  technique we can derive the generalized evaluation parameters. These parameters include:  
 Accuracy
 Precision
