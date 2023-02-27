@@ -34,22 +34,23 @@ This project has been divided into 2 phases. First, literature study is conducte
 
 
 The proposed method for sentiment analysis in this paper could be represented in 5 stages, each of which are listed below:
-A. Data Collection 
-B. Data Preprocessing 
-C. Feature Selection 
-D. Model Selection E. Model Evaluation
+1. Data Collection 
+2. Data Preprocessing 
+3. Feature Selection 
+4. Model Selection 
+5. Model Evaluation
 
 
 
-##### Data collection 
+##### *Data collection* 
 Data collection is the first phase for analysis as there needs to be data for us to do analysis on. In our experimentations we have used the python programming language as a tool. Being that said, data collection in this particular analysis could be carried out in two ways. First way is to collect preorganized data from different sites such as kaggle and from github from dataset of other projects.
 
 
-##### Data Preprocessing 
+##### *Data Preprocessing* 
 The pre-processing of data implies the processing of raw data into a more convenient format which could be fed to a classifier in order to better the accuracy of the classifier. Here, in our case the raw data which is being extracted from twitter using csv files from github is initially totally unstructured and bogus as the availability of various useless characters seems very common in it. 
 
 
-##### Feature Selection
+##### *Feature Selection*
 The preprocessed dataset has many distinctive properties. In the feature extraction method, we extract the aspects from the processed dataset. Later this aspect are used to compute the positive and negative polarity in a sentence which is useful for determining the opinion of the individuals .
 Some examples features that have been reported in literature are:
 Opinion Words And Phrases
@@ -58,12 +59,12 @@ Words And Their Frequencies:
 Syntax
 
 
-##### Model Selection 
+##### *Model Selection* 
 Once the data is being pre-processed, this data is to be fed to a classification model for further processing. There are different classification algorithms on which these models are built on. 
 KNN or k-Nearest Neighbour algorithm represents a machine learning technique used for classifying a set of data into its given target values (in our case positive , neutral or negative).KNN could also be used for regression problems but is widely used for classification problems.
 
 
-##### Model Evaluation
+##### *Model Evaluation*
 By applying  technique we can derive the generalized evaluation parameters. These parameters include:  
 Accuracy
 Precision
